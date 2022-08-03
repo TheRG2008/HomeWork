@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZfRXCRzezBHzjHxSOPv/K7yu2y1q27+TOw1M16EY2QYVimXbrF9MPcSFj7TEFAvZD+M4ngD8Usuc4bx0jqSGA==",
+  "success": true,
+  "projectFilePath": "D:\\Unity\\ДЗ GB\\Архитектура и шаблоны проектирования\\HomeWork1\\HomeWork1\\HomeWork1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Владимир\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

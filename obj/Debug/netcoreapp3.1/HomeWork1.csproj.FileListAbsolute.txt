@@ -1,0 +1,13 @@
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.exe
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.deps.json
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.json
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.dev.json
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.dll
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.pdb
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csprojAssemblyReference.cache
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfoInputs.cache
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfo.cs
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csproj.CoreCompileInputs.cache
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.dll
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.pdb
+D:\Unity\ДЗ GB\Архитектура и шаблоны проектирования\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.genruntimeconfig.cache
