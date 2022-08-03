@@ -16,7 +16,7 @@ namespace HomeWork1
         }
     }
 
-    public class Model
+    internal sealed class Model
     {
         private int _factorial = 1;
         private int _sum = 0;
@@ -64,7 +64,7 @@ namespace HomeWork1
         }
 
     }
-    public class View
+    internal sealed class View
     {
         public void Hello()
         {
